@@ -10,8 +10,8 @@ import os
 import pandas as pd
 import numpy as np
 # File paths
-USERS_FILE = 'data/users.csv'
-EXPENSES_FILE = 'data/expenses.csv'
+USERS_FILE = 'users.csv'
+EXPENSES_FILE = 'expenses.csv'
 
 def load_user_data():
     """Load user data from CSV file or create empty dataframe if file doesn't exist"""
