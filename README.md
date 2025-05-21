@@ -1,3 +1,7 @@
+## Contributors
+
+- [@preyashi1726](https://github.com/preyashi1726) – Feature X, UI, etc.
+
 The application available at [studentbudgettracking-6wzykhrgpkmpkxjk2uqm68.streamlit.app](https://studentbudgettracking-6wzykhrgpkmpkxjk2uqm68.streamlit.app/?embed_options=dark_theme) is a Streamlit-based web app designed to assist students in managing their personal finances effectively. Leveraging Streamlit's capabilities, the app offers an intuitive and interactive interface for tracking income and expenses.
 
 Key Features:
